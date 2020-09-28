@@ -1,1 +1,1 @@
-# lungs-disease-prediction-using-deep-learning
+# Predicitng-Lungs-Disease-
